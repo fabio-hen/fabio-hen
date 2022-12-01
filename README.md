@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Electronic Engineer
 -------------------
 
-I’m an Electronic Engineer, and I'm an enthusiastic in technology
+I am an Electrical Engineer, and I am a technology enthusiast. I have some knowledge in C and C++, and these days I'm learning Python and Data Analytics.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [fabio.he@outlook.com](mailto:fabio.he@outlook.com)
