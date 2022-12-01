@@ -1,16 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fábio Henrique
+Hello there!! 👋
 ======================================================================================================================================
 
 Electronic Engineer
 -------------------
 
-I am an Electrical Engineer, and I am a technology enthusiast. I have some knowledge in C and C++, and these days I'm learning Python and Data Analytics.
+My name is Fábio Henrique. I am an Electrical Engineer, and a technology enthusiastic. I have some knowledge in languages C and C++. Nowadays I'm learning Python and Data Analytics.
 
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [fabio.he@outlook.com](mailto:fabio.he@outlook.com)
-* 🧠  I'm learning Python
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabio-hen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-hen&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-### Skills
+  
+### 💡 What I know:
 
 
 <p align="left">
@@ -22,16 +25,11 @@ I am an Electrical Engineer, and I am a technology enthusiast. I have some knowl
 </p>
 
 
-### Socials
+### 📫 How to reach me:
+<div>
+ <a href="https://www.linkedin.com/in/fhalmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:fabio.he@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/UCrbckCxtbXY7joqITKs_jYA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-<p align="left"> <a href="https://www.github.com/fabio-hen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fabiio_hen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fhalmeida/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCrbckCxtbXY7joqITKs_jYA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/fabio-hen"><img src="https://github-readme-stats.vercel.app/api?username=fabio-hen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="fabio-hen's GitHub stats" /></a>
-
-<a href="https://github.com/fabio-hen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-hen&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-![Snake animation](https://github.com/fabio-hen/fabio-hen/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
