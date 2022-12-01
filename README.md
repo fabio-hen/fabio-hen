@@ -4,7 +4,7 @@ Hello there!! 👋
 Electronic Engineer
 -------------------
 
-My name is Fábio Henrique. I am an Electrical Engineer, and a technology enthusiastic. I have some knowledge in languages C and C++. Nowadays I'm learning Python and Data Analytics.
+My name is Fábio Henrique. I am an Electronic Engineer, and a technology enthusiastic. I have some knowledge in languages C and C++. Nowadays I'm learning Python and Data Analytics.
 
 ##
 
